@@ -117,6 +117,7 @@
 	li p { line-height: 21px; }
 	li.new {
 		background: #fff67e;
+		display: inline;
 	}
 
 
