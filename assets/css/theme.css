@@ -1,0 +1,64 @@
+/*GENERIC TYPOGRAPHY */
+p {
+  margin-bottom: 0.8em;
+}
+
+body {
+  height: 50vh;
+}
+
+/* HEADER STYLING */
+
+#intro-img {
+  border-radius: 50%;
+  max-width: 250px;
+  margin: 0 auto;
+}
+
+#intro {
+  max-width: 600px;
+  margin: 1rem auto;
+  text-align: center;
+  padding-top: 1rem
+}
+
+#intro-hed {
+  font-size: 6rem;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  max-width: 100%;
+  margin: auto;
+  color: var(--squidink)
+}
+
+#intro-sub {
+  font-size: 2.6rem;
+  color: var(--darksquidink);
+  text-align: center;
+  margin: 1rem;
+  opacity: 0.75;
+  padding: 2rem;
+  font-family: var(--font-main)
+}
+
+#intro__date {
+  font-size: 1.1rem;
+  color: var(--squidink);
+  margin: 0px;
+  margin-top: 15px;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+  padding-bottom: 1rem;
+  font-family: var(--font-main)
+}
+
+@media screen and (max-width: 950px) {
+  #intro-hed {
+    font-size: 3.1rem
+  }
+
+  #intro-sub {
+    font-size: 1.2rem;
+    padding: 2rem 0
+  }
+}
