@@ -11,7 +11,7 @@ body {
 
 #intro-img {
   border-radius: 50%;
-  max-width: 250px;
+  max-width: 175px;
   margin: 0 auto;
 }
 
@@ -22,23 +22,15 @@ body {
   padding-top: 1rem
 }
 
-#intro-hed {
-  font-size: 6rem;
-  letter-spacing: 1.5px;
-  text-transform: uppercase;
-  max-width: 100%;
-  margin: auto;
-  color: var(--squidink)
-}
-
-#intro-sub {
-  font-size: 2.6rem;
+#intro-head {
+  font-size: 3rem;
   color: var(--darksquidink);
   text-align: center;
   margin: 1rem;
   opacity: 0.75;
   padding: 2rem;
-  font-family: var(--font-main)
+  font-weight: 700;
+  font-family: var(--font-titles)
 }
 
 #intro__date {

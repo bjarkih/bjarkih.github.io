@@ -1,9 +1,7 @@
 :root {
-  /* Fonts 
-  see: http://typography.aka.amazon.com/
-  */
-  --font-mono: "Amazon Ember Mono";
-  --font-heavy: "Amazon Ember Display Heavy";
+  --font-mono: "Roboto Mono";
+  --font-titles: "Jost";
+  --font-heavy: Jost;
   --font-main: var(--font-mono);
   --font-light: var(--font-mono);
 
@@ -14,8 +12,12 @@
   /* set 1 */
   --anchor: #003181;
   --sky: #2074d5;
+  --bright-blue: #0082F1;
   --smile: #df4601;
-  --burnt-orange: #cc5500;
+  --burnt-orange: #fe6001;
+  --dutch-orange: #ff7f11;
+  --bright-red: #df3939;
+  --ft-bg: #fff1e5;
   --rind: #fbd8bf;
   /* set 2 */
   --galaxy: #330066;
@@ -35,7 +37,7 @@
   /* neutrals */
   --darksquidink: #161e2d;
   --stone: #d4dada;
-  --paper: #d4dada;
+  --paper: #f5f6f6;
   --white: #ffffff;
   --off-black: #111111;
 
@@ -48,11 +50,19 @@
   /* Color Variables */
 
   --accent: var(--burnt-orange);
+  /*--bg: var(--paper);*/
   --bg: var(--paper);
   --fg: var(--off-black);
   --default: var(--squidink);
   --primary: var(--accent);
   --secondary: var(--accent);
+
+  /*--accent: var(--burnt-orange);*/
+  /*--bg: var(--paper);*/
+  /*--fg: var(--off-black);*/
+  /*--default: var(--squidink);*/
+  /*--primary: var(--accent);*/
+  /*--secondary: var(--accent);*/
 
   --max-width: 600px;
   --size-default: 16px;
