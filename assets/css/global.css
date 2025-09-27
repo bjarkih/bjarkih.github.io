@@ -51,7 +51,7 @@
 
   --accent: var(--burnt-orange);
   /*--bg: var(--paper);*/
-  --bg: var(--paper);
+  --bg: var(--ft-bg);
   --fg: var(--off-black);
   --default: var(--squidink);
   --primary: var(--accent);
@@ -90,7 +90,7 @@ body {
   margin: 0 auto;
   text-align: left;
   font-size: 30px;
-  line-height: 1.5em;
+  line-height: 2em;
   font-family: var(--font-heavy);
   padding-top: 2rem;
   padding-bottom: 0.5rem;
