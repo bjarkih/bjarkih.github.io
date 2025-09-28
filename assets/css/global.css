@@ -49,9 +49,9 @@
 
   /* Color Variables */
 
-  --accent: var(--burnt-orange);
-  /*--bg: var(--paper);*/
-  --bg: var(--ft-bg);
+  --accent: var(--smile);
+  --bg: var(--paper);
+  /*--bg: var(--ft-bg);*/
   --fg: var(--off-black);
   --default: var(--squidink);
   --primary: var(--accent);
@@ -96,6 +96,13 @@ body {
   padding-bottom: 0.5rem;
   text-decoration: underline;
   text-decoration-color: var(--accent);
+}
+
+.tiny {
+  font-size: 0.8em;
+}
+.right {
+  text-align: right;
 }
 
 .centered {

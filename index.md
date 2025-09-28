@@ -6,7 +6,11 @@ I'm a product-focused engineering leader with a research background in theoretic
 
 I worked on research at the [Department of Computer Science and Technology](https://www.cst.cam.ac.uk) at Cambridge University with [Professor Anuj Dawar](https://www.cst.cam.ac.uk/people/ad260). My PhD at Cambridge studied the descriptive complexity theory of linear algebra. Before that, I did Part III of the Mathematical Tripos at the [Department of Pure Mathematics and Mathematical Statistics](https://www.dpmms.cam.ac.uk) at Cambridge and a BSc in [Electrical and Computer Engineering](https://english.hi.is/faculty_of_electrical_and_computer_engineering) at the University of Iceland. I've co-authored four textbooks on enterprise software development, writing on application design, database architecture and data processing.
 
-You can find my full CV on [LinkedIn](https://www.linkedin.com/in/bjarkiholm). My 🇮🇸 name is pronounced _bee-ya-r-kh-ih_.
+You can find my full CV on [LinkedIn](https://www.linkedin.com/in/bjarkiholm). Based in Cambridge 🇬🇧.
+  
+{:.tiny.right}
+<br>
+&#42; Pronounced _bee-ya-r-kh-ih_ 🇮🇸.
 
 {:.body-header}
 # Publications
@@ -32,3 +36,10 @@ You can find my full CV on [LinkedIn](https://www.linkedin.com/in/bjarkiholm). M
 - A. Dawar, E. Gr&auml;del, **B. Holm**, E. Kopczynski and W. Pakusa. [Definability of linear equation systems over groups and rings](http://arxiv.org/abs/1204.3022). In _Proceedings of Computer Science Logic (CSL)_, 2012.
 - A. Dawar and **B. Holm**. [Pebble games with algebraic rules](http://arxiv.org/abs/1205.0913). In _Proceedings of the 39th International Colloquium on Automata, Languages and Programming (ICALP)_, 2012. <a href="./slides/2012_bholm-icalp.pdf">Slides</a> for my talk at ICALP.
 - A. Dawar, M. Grohe, **B. Holm**, and B. Laubner. [Logics with rank operators](/assets/papers/Dawar-Grohe-Holm-Laubner_2009_ranklogics.pdf). In _Proceedings of the 23rd IEEE Symposium on Logic in Computer Science (LICS)_, 2009.
+
+### Book chapters & extended abstracts
+
+- A. Dawar and **B. Holm**. Pebble games for logics with counting and rank. In _Studies in Weak Arithmetics_, CSLI Lecture Notes, CSLI Publications, 2010.
+- A. Dawar and **B. Holm**. [Pebble games for rank logics](./publications/Dawar-Holm_2010_greifswald.pdf) (extended abstract). In proceedings of _Logical Approaches to Barriers in Computing and Complexity_, 2010.
+
+<br><br>
